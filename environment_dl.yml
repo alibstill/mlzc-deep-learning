@@ -1,0 +1,13 @@
+name: dl
+channels:
+  - conda-forge
+  - bioconda
+  - defaults
+dependencies:
+  - pandas=2.2
+  - python=3.11
+  - ipykernel
+  - tensorflow=2.17.0
+  - pillow
+  - matplotlib
+prefix: /Users/bigbird/anaconda3/envs/dl
